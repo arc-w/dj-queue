@@ -1,0 +1,16 @@
+Invalid preference.
+Invalid duration.
+Name field is empty.
+Now playing: ShapeOfYou (180s).
+Skipped 90s. 90s remaining.
+Skipped 100s. Song finished.
+Replaying: ShapeOfYou
+Removed: SongB.
+Song wasnt found in the playlist.
+Playlist:
+Preference 1: ShapeOfYou, 
+Preference 2: SongC, 
+Preference 3: Memories, 
+History:
+1. ShapeOfYou.
+No song is playing right now.

@@ -1,0 +1,16 @@
+ADD 2 210 SongB
+ADD 2 240 SongC
+ADD 1 180 ShapeOfYou
+ADD 3 240 Memories
+ADD 4 200 InvalidPreference
+ADD 2 -50 NegativeDuration
+ADD 2 200    
+PLAY
+SKIP 90
+SKIP 100
+REPLAY
+REMOVE SongB  
+REMOVE NonExistentSong
+SHOW
+HISTORY
+SKIP 10
